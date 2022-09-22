@@ -1,4 +1,4 @@
-### Jeremy's Data and Analytics Blog
+# Welcome
 
 ## About Me
 
