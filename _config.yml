@@ -1,4 +1,7 @@
 theme: minima
 author: Jeremy Harris
 title: Jeremy's Data and Analytics Blog
-headline: Welcome
+minima:
+  social_links:
+    twitter: jeremy__harris
+    github:  jharris126
