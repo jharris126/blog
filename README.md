@@ -1,4 +1,3 @@
-### Jeremy's Data and Analytics Blog
 
 ## About Me
 
